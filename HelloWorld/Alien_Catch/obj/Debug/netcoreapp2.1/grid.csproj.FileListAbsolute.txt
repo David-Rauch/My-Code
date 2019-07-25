@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\grid\bin\Debug\netcoreapp2.1\grid.deps.json
+C:\Users\David\source\repos\grid\bin\Debug\netcoreapp2.1\grid.runtimeconfig.json
+C:\Users\David\source\repos\grid\bin\Debug\netcoreapp2.1\grid.runtimeconfig.dev.json
+C:\Users\David\source\repos\grid\bin\Debug\netcoreapp2.1\grid.dll
+C:\Users\David\source\repos\grid\bin\Debug\netcoreapp2.1\grid.pdb
+C:\Users\David\source\repos\grid\obj\Debug\netcoreapp2.1\grid.csprojAssemblyReference.cache
+C:\Users\David\source\repos\grid\obj\Debug\netcoreapp2.1\grid.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\grid\obj\Debug\netcoreapp2.1\grid.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\grid\obj\Debug\netcoreapp2.1\grid.AssemblyInfo.cs
+C:\Users\David\source\repos\grid\obj\Debug\netcoreapp2.1\grid.dll
+C:\Users\David\source\repos\grid\obj\Debug\netcoreapp2.1\grid.pdb
