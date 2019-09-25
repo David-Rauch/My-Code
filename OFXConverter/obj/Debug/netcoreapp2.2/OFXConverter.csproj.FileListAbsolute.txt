@@ -1,11 +1,11 @@
-C:\Users\David\source\repos\OFXConverter\obj\Debug\netcoreapp2.2\OFXConverter.csprojAssemblyReference.cache
-C:\Users\David\source\repos\OFXConverter\obj\Debug\netcoreapp2.2\OFXConverter.csproj.CoreCompileInputs.cache
-C:\Users\David\source\repos\OFXConverter\obj\Debug\netcoreapp2.2\OFXConverter.AssemblyInfoInputs.cache
-C:\Users\David\source\repos\OFXConverter\obj\Debug\netcoreapp2.2\OFXConverter.AssemblyInfo.cs
 C:\Users\David\source\repos\OFXConverter\bin\Debug\netcoreapp2.2\OFXConverter.deps.json
 C:\Users\David\source\repos\OFXConverter\bin\Debug\netcoreapp2.2\OFXConverter.runtimeconfig.json
 C:\Users\David\source\repos\OFXConverter\bin\Debug\netcoreapp2.2\OFXConverter.runtimeconfig.dev.json
 C:\Users\David\source\repos\OFXConverter\bin\Debug\netcoreapp2.2\OFXConverter.dll
 C:\Users\David\source\repos\OFXConverter\bin\Debug\netcoreapp2.2\OFXConverter.pdb
+C:\Users\David\source\repos\OFXConverter\obj\Debug\netcoreapp2.2\OFXConverter.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\OFXConverter\obj\Debug\netcoreapp2.2\OFXConverter.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\OFXConverter\obj\Debug\netcoreapp2.2\OFXConverter.AssemblyInfo.cs
 C:\Users\David\source\repos\OFXConverter\obj\Debug\netcoreapp2.2\OFXConverter.dll
 C:\Users\David\source\repos\OFXConverter\obj\Debug\netcoreapp2.2\OFXConverter.pdb
+C:\Users\David\source\repos\OFXConverter\obj\Debug\netcoreapp2.2\OFXConverter.csprojAssemblyReference.cache
